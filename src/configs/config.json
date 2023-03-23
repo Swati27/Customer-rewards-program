@@ -1,0 +1,27 @@
+{
+  "CustomerByMonth": {
+    "title": "Customers By Month",
+    "monthLabelText": "Monthly points :",
+    "monthInputPlaceholderText": "Enter month here",
+    "customerByMonthTable": {
+      "customerId": "Customer Id",
+      "monthlyPoints": "Monthly Points",
+      "totalPoints": "Total Points"
+    }
+  },
+  "Home": {
+    "title": "Retailer rewards program"
+  },
+  "TransactionList": {
+    "title": "Transaction List",
+    "transactionListTable": {
+      "transactionId": "Transaction Id",
+      "date": "Date",
+      "time": "Time",
+      "customerId": "Customer Id",
+      "amountUsd": "Amount",
+      "pointsEarned": "Points Earned"
+    }
+  },
+  "LoadingText" : "...Loading"
+}
